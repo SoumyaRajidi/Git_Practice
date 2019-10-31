@@ -1,0 +1,4 @@
+[main] INFO  Elementidentification.ById  - chrome browser is launched
+02 Oct 14:29:52,663[main] INFO  Elementidentification.ById  - chrome browser is launched
+02 Oct 18:08:01,229[main] INFO  Elementidentification.ById  - chrome browser is launched
+02 Oct 18:08:01,230[main] ERROR Elementidentification.ById  - browser launching failed

@@ -1,0 +1,3 @@
+[main] DEBUG congigReader.log4j  - Log4j appender configuration is successful !!
+[main] INFO  Elementidentification.ById  - chrome browser is launched
+[main] INFO  testcase  - chrome browser is launched
