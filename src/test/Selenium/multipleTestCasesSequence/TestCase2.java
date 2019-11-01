@@ -10,6 +10,7 @@ public class TestCase2 extends testbase2{
 		System.out.println("this is testcase2");
 
 
+
 	}
 
 }
