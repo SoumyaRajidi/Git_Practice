@@ -18,7 +18,7 @@ public class ById {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.weddingshop.com/register");
 		driver.manage().window().fullscreen();
-		logger.info("chrome browser is launched");
+		logger.info("££££chrome browser is launched");
 		logger.error("browser launching failed");
 		WebElement txtTitle =driver.findElement(By.id("title"));
         txtTitle.sendKeys("SoumyaRajidi");
